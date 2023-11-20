@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[4195],{9294:(e,s,t)=>{t.r(s),t.d(s,{default:()=>n});var c=t(2263),o=t(7961);var i=t(5893);function n(){const{siteConfig:e}=(0,c.Z)();return(0,i.jsx)(o.Z,{title:`${e.title}`,description:"Welcome to varad rocks.",children:(0,i.jsx)("section",{className:"hero-section"})})}}}]);
